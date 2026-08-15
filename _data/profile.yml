@@ -1,11 +1,11 @@
-primary_name: "Your Name"
+primary_name: "Wenxin Jiang"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Wenxin Jiang"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Ph.D. Student
+- name: Politecnico di Milano
+  logo: /assets/images/badges/MIT_Social_circle.png  
 
 
 email: "your@email.com"
