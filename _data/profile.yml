@@ -38,13 +38,13 @@ education:
     Supervisor: Prof. Enrico Zio
   date: Nov. 2025 - Present
 - name: Northwestern Polytechnical University
-  # logo: /assets/images/badges/nwpu_logo.png
+  logo: /assets/images/badges/nwpu_logo.png
   position: >-
     M.Eng. in Electrical Information <br/>
     Supervisors: Prof. Hongkai Jiang, Prof. Lin He
   date: Sep. 2022 - Apr. 2025
 - name: North University of China
-  # logo: /assets/images/badges/nuc_logo.png
+  logo: /assets/images/badges/nuc_logo.png
   position: >-
     B.Eng. in Communication Engineering <br/>
     Thesis Advisor: Prof. Liming Wang &middot; Research Advisor: Assoc. Prof. Haiyang Li
