@@ -8,6 +8,5 @@ authors:
   - Mingzhe Mu
   - Yunpeng Liu
 venue: "Structural Health Monitoring"
-venue_tags:
-  - SHM
+
 
