@@ -32,19 +32,19 @@ portrait_caption: >-
 
 education:
 - name: Politecnico di Milano
-  logo: /assets/images/badges/polimi.png
+  logo: /assets/images/badges/polimi_logo.png
   position: >- 
     Ph.D. Student in Energy and Nuclear Science and Technology <br/>
     Supervisor: Prof. Enrico Zio
   date: Nov. 2025 - Present
 - name: Northwestern Polytechnical University
-  # logo: /assets/images/badges/nwpu.png
+  # logo: /assets/images/badges/nwpu_logo.png
   position: >-
     M.Eng. in Electrical Information <br/>
     Supervisors: Prof. Hongkai Jiang, Prof. Lin He
   date: Sep. 2022 - Apr. 2025
 - name: North University of China
-  # logo: /assets/images/badges/nuc.png
+  # logo: /assets/images/badges/nuc_logo.png
   position: >-
     B.Eng. in Communication Engineering <br/>
     Thesis Advisor: Prof. Liming Wang &middot; Research Advisor: Assoc. Prof. Haiyang Li
