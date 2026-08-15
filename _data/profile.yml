@@ -19,12 +19,31 @@ linkedin: jiang2000
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    I am currently a Ph.D. student in Energy and Nuclear Science and Technology at the Department of Energy, <strong>Politecnico di Milano</strong>, under the supervision of Prof. Enrico Zio. My doctoral research is conducted within the <strong>LASAR³</strong> (Laboratory of Analysis of Systems for the Assessment of Reliability, Risk and Resilience).
+    I am currently a Ph.D. student in Energy and Nuclear Science and Technology at the Department of Energy,
+    <a href="https://www.polimi.it/en/" target="_blank">Politecnico di Milano</a>, under the supervision of Prof. Enrico Zio.
+    My doctoral research is conducted within the
+    <a href="https://www.lasar.polimi.it" target="_blank">LASAR<sup>3</sup></a>
+    (Laboratory of Analysis of Systems for the Assessment of Reliability, Risk and Resilience).
   </p>
   <p>
-    My research interests and experience primarily focus on signal processing methods and deep learning models for the Prognostics and Health Management of industrial equipments, aiming to develop solutions for practical industrial applications. I’m always happy to connect for any kind of academic discussions or research collaborations.
+    My research interests and experience primarily focus on <strong>signal processing methods</strong> and
+    <strong>deep learning models</strong> for the Prognostics and Health Management of industrial equipment,
+    aiming to develop solutions for practical industrial applications, though there is still a long way to go.
+    I am always happy to connect for academic discussions or research collaborations. Feel free to reach out via email!
   </p>
-
+  <h5>Selected Participated Research Projects</h5>
+  <ul>
+    <li>"Multi-Source Deep Information Fusion and Intelligent Prognostics for Aero-Engine Health Monitoring," <i>NSFC Major Research Plan</i>.</li>
+    <li>"In-Service Performance Degradation Mechanisms and Autonomous Health Monitoring Methodologies for Near-Space Vehicles," <i>NSFC General Program</i>.</li>
+    <li>"Vibration Data-Driven Prognostics and Health Management Methodologies for Helicopter Transmission Systems," <i>Industrial R&amp;D Project</i>.</li>
+    <li>"Nonlinear Rayleigh Surface Wave Evaluation Mechanisms and Characterization Methods for Metal Corrosion Fatigue Damage," <i>NSFC Young Scientists Fund</i>.</li>
+  </ul>
+  <h5>Academic Service</h5>
+  <ul>
+    <li><strong>Ambassador &amp; Intern Editor:</strong> <a href="https://www.jrse.org.cn/homeNav?lang=en" target="_blank">Journal of Reliability Science and Engineering</a> since 2025.</li>
+    <li><strong>Journal Reviewer:</strong> <i>Measurement Science and Technology</i>, <i>Sensors</i>, <i>International Journal of Prognostics and Health Management</i>, etc.</li>
+    <li><strong>Membership:</strong> Student Member, Chinese Society of Vibration Engineering.</li>
+  </ul>
 portrait_url: /assets/images/avatar.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
