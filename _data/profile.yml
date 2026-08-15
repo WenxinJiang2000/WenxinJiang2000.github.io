@@ -31,19 +31,7 @@ short_bio: >-
     aiming to develop solutions for practical industrial applications, though there is still a long way to go.
     I am always happy to connect for academic discussions or research collaborations. Feel free to reach out via email!
   </p>
-  <h5>Selected Participated Research Projects</h5>
-  <ul>
-    <li>"Multi-Source Deep Information Fusion and Intelligent Prognostics for Aero-Engine Health Monitoring," <i>NSFC Major Research Plan</i>.</li>
-    <li>"In-Service Performance Degradation Mechanisms and Autonomous Health Monitoring Methodologies for Near-Space Vehicles," <i>NSFC General Program</i>.</li>
-    <li>"Vibration Data-Driven Prognostics and Health Management Methodologies for Helicopter Transmission Systems," <i>Industrial R&amp;D Project</i>.</li>
-    <li>"Nonlinear Rayleigh Surface Wave Evaluation Mechanisms and Characterization Methods for Metal Corrosion Fatigue Damage," <i>NSFC Young Scientists Fund</i>.</li>
-  </ul>
-  <h5>Academic Service</h5>
-  <ul>
-    <li><strong>Ambassador &amp; Intern Editor:</strong> <a href="https://www.jrse.org.cn/homeNav?lang=en" target="_blank">Journal of Reliability Science and Engineering</a> since 2025.</li>
-    <li><strong>Journal Reviewer:</strong> <i>Measurement Science and Technology</i>, <i>Sensors</i>, <i>International Journal of Prognostics and Health Management</i>, etc.</li>
-    <li><strong>Membership:</strong> Student Member, Chinese Society of Vibration Engineering.</li>
-  </ul>
+
 portrait_url: /assets/images/avatar.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
@@ -70,14 +58,15 @@ education:
   date: Sep. 2018 - Jul. 2022
 
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Journal of Reliability Science and Engineering
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    Ambassador &amp; Intern Editor
+  date: 2025 - Present
+- name: Summer Course on Structural Health Monitoring 2026
+  position: >-
+    Erasmus+ BIP Program, Lisbon, Portugal
+  date: Jun. 2026
 
-awards:
-- name: Best Presentation Award, 10th International Conference on Reliability Engineering (ICRE 2026)
-  date: Jul. 2026
-- name: Regional Superiority Award, ZTE Elite Challenge ("中兴捧月")
-  date: May 2026
+
