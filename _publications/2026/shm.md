@@ -10,4 +10,4 @@ authors:
 venue: "Structural Health Monitoring"
 venue_tags:
   - SHM
-# pdf: ""
+
