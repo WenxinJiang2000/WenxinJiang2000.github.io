@@ -42,6 +42,12 @@ collections:
   - posts
 
 
-title: "Wenxin Jiang | Politecnico di Milano"
-description: "Personal academic website of Wenxin Jiang, Ph.D. student at Politecnico di Milano."
+baseurl: ""
 url: "https://wenxinjiang2000.github.io"
+
+title: "Wenxin Jiang"
+description: "Wenxin Jiang is a Ph.D. student at Politecnico di Milano focusing on signal processing, Physics AI, and Prognostics and Health Management."
+
+plugins:
+  - jekyll-email-protect
+  - jekyll-sitemap
